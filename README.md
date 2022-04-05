@@ -1,2 +1,2 @@
-# EE651--Nonlinear-systems-Project
+# EE651--Nonlinear-system-Project
 Unicycle Lyapunov - Exponential Stabilization
